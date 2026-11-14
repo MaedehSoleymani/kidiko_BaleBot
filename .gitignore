@@ -1,2 +1,5 @@
 config.py
 rahnama_valed.pdf
+venv/
+__pycache__/
+*.pyc
